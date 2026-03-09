@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "services": "Služby",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "cta": "Domluvit konzultaci"
+  },
+  "hero": {
+    "badge": "AI transformace pro finance",
+    "headline": "AI transformace finančních týmů.",
+    "headlineAccent": "Od odborníků, kteří procesy znají zevnitř.",
+    "subheadline": "Pomáháme CFO a vedoucím finančních oddělení zavést AI, která skutečně funguje – ne jen zaplatit za licence.",
+    "ctaPrimary": "Začít konzultací",
+    "ctaSecondary": "Naše služby"
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Od AI strategie po konkrétní implementaci ve vašem finančním týmu",
+    "items": [
+      {
+        "title": "AI Readiness pro finance",
+        "description": "Zjistíme, kde je váš tým připravený a kde jsou největší příležitosti ke zlepšení."
+      },
+      {
+        "title": "Identifikace AI use cases",
+        "description": "Konkrétní případy použití pro účtárnu, daně, controlling a reporting."
+      },
+      {
+        "title": "Návrh AI strategie",
+        "description": "Strukturovaný plán implementace AI přizpůsobený procesům vašeho finančního oddělení."
+      },
+      {
+        "title": "AI adopce a změna práce",
+        "description": "Provázíme váš tým změnou – od skeptiků k aktivním uživatelům AI nástrojů."
+      },
+      {
+        "title": "Výběr a implementace nástrojů",
+        "description": "Vybereme a nasadíme správné AI nástroje pro váš konkrétní kontext a potřeby."
+      }
+    ]
+  },
+  "stats": {
+    "big4": {
+      "value": "Big4",
+      "label": "zkušenosti v daních & auditu"
+    },
+    "ssc": {
+      "value": "SSC",
+      "label": "znalost procesů zevnitř"
+    },
+    "countries": {
+      "value": "14+",
+      "label": "zemí v oblasti VAT compliance"
+    }
+  },
+  "cta": {
+    "headline": "Máte AI licence. Ještě nemáte výsledky?",
+    "subheadline": "Domluvte si bezplatnou konzultaci a zjistěte, kde AI skutečně pomůže vašemu finančnímu týmu.",
+    "button": "Domluvit konzultaci"
+  },
+  "footer": {
+    "rights": "Všechna práva vyhrazena."
+  },
+  "meta": {
+    "title": "Next Change AI – AI transformace finančních týmů",
+    "description": "Pomáháme CFO a vedoucím finančních oddělení zavést AI, která skutečně funguje. Od odborníků, kteří procesy znají zevnitř."
+  }
+}

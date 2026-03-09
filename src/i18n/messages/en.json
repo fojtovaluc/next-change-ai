@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Book a consultation"
+  },
+  "hero": {
+    "badge": "AI transformation for finance",
+    "headline": "AI transformation for finance teams.",
+    "headlineAccent": "By experts who know the processes from the inside.",
+    "subheadline": "We help CFOs and finance leaders implement AI that actually works – not just pay for licenses.",
+    "ctaPrimary": "Start with a consultation",
+    "ctaSecondary": "Our services"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "From AI strategy to hands-on implementation in your finance team",
+    "items": [
+      {
+        "title": "AI Readiness for Finance",
+        "description": "We assess where your team is ready and where the biggest opportunities for improvement lie."
+      },
+      {
+        "title": "AI Use Case Identification",
+        "description": "Concrete use cases for accounting, tax, controlling and reporting."
+      },
+      {
+        "title": "AI Strategy Design",
+        "description": "A structured AI implementation plan tailored to your finance department's processes."
+      },
+      {
+        "title": "AI Adoption & Change Management",
+        "description": "We guide your team through the change – from skeptics to active AI users."
+      },
+      {
+        "title": "Tool Selection & Implementation",
+        "description": "We select and deploy the right AI tools for your specific context and needs."
+      }
+    ]
+  },
+  "stats": {
+    "big4": {
+      "value": "Big4",
+      "label": "experience in tax & audit"
+    },
+    "ssc": {
+      "value": "SSC",
+      "label": "knowledge of processes from the inside"
+    },
+    "countries": {
+      "value": "14+",
+      "label": "countries in VAT compliance"
+    }
+  },
+  "cta": {
+    "headline": "You have AI licenses. You don't have results yet?",
+    "subheadline": "Book a free consultation and find out where AI can truly help your finance team.",
+    "button": "Book a consultation"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "meta": {
+    "title": "Next Change AI – AI Transformation for Finance Teams",
+    "description": "We help CFOs and finance leaders implement AI that actually works. By experts who know the processes from the inside."
+  }
+}
