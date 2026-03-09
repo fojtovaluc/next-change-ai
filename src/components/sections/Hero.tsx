@@ -23,25 +23,27 @@ export default async function Hero() {
           </div>
 
           {/* Headline */}
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gold leading-tight mb-4">
             {t("headline")}
-            <br />
-            <span className="text-gold">{t("headlineAccent")}</span>
           </h1>
 
           {/* Subheadline */}
-          <p className="text-lg sm:text-xl text-white/70 mb-10 max-w-2xl">
+          <p className="text-lg sm:text-xl text-white/70 mb-8 max-w-2xl">
             {t("subheadline")}
           </p>
 
+          {/* Value points */}
+          <ul className="flex flex-col gap-3 mb-10">
+            {(t.raw("valuePoints") as string[]).map((point, i) => (
+              <li key={i} className="flex items-start gap-3 text-white/85">
+                <span className="text-gold mt-0.5">✔</span>
+                <span>{point}</span>
+              </li>
+            ))}
+          </ul>
+
           {/* CTA buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
-            <Link
-              href={`/${locale}/kontakt`}
-              className="inline-flex items-center justify-center px-8 py-4 bg-gold text-dark text-base font-bold rounded-xl hover:bg-gold/90 transition-colors shadow-lg shadow-gold/20"
-            >
-              {t("ctaPrimary")}
-            </Link>
             <Link
               href={`/${locale}/sluzby`}
               className="inline-flex items-center justify-center px-8 py-4 bg-white/5 text-white text-base font-semibold rounded-xl border border-white/20 hover:bg-white/10 transition-colors"

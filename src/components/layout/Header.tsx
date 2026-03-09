@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname, useRouter } from "next/navigation";
@@ -28,6 +29,13 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href={`/${locale}`} className="flex items-center gap-2">
+            <Image
+              src="/NextChange logo bez textu tmave.png"
+              alt="Next Change AI"
+              width={64}
+              height={64}
+              className="object-contain h-16 w-auto"
+            />
             <div className="flex items-center">
               <span className="text-gold font-bold text-xl tracking-tight">Next Change</span>
               <span className="text-teal font-bold text-xl ml-1">AI</span>
@@ -40,7 +48,7 @@ export default function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-white/80 hover:text-gold text-sm font-medium transition-colors"
+                className="text-gold text-sm font-medium hover:text-gold/80 transition-colors"
               >
                 {link.label}
               </Link>
@@ -74,13 +82,6 @@ export default function Header() {
               </button>
             </div>
 
-            {/* CTA button */}
-            <Link
-              href={`/${locale}/kontakt`}
-              className="hidden md:inline-flex items-center px-4 py-2 bg-gold text-dark text-sm font-semibold rounded-lg hover:bg-gold/90 transition-colors"
-            >
-              {t("cta")}
-            </Link>
           </div>
         </div>
       </div>

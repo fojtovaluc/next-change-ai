@@ -6,64 +6,106 @@
     "cta": "Domluvit konzultaci"
   },
   "hero": {
-    "badge": "AI transformace pro finance",
-    "headline": "AI transformace finančních týmů.",
-    "headlineAccent": "Od odborníků, kteří procesy znají zevnitř.",
-    "subheadline": "Pomáháme CFO a vedoucím finančních oddělení zavést AI, která skutečně funguje – ne jen zaplatit za licence.",
-    "ctaPrimary": "Začít konzultací",
+    "badge": "AI pro finance. V praxi.",
+    "headline": "AI transformace pro finance, účetnictví a daně",
+    "subheadline": "Pomáháme finančním týmům zavádět AI tak, aby skutečně změnila jejich každodenní práci — ne jen vznikla další prezentace nebo pilotní projekt.",
+    "valuePoints": [
+      "Rozumíme financím, účetnictví a daním",
+      "Pomáháme vybrat správné AI nástroje a use-cases",
+      "Zavádíme AI do reálných procesů a práce týmů"
+    ],
     "ctaSecondary": "Naše služby"
+  },
+  "howWeHelp": {
+    "title": "Jak pomáháme tyto situace řešit",
+    "subtitle": "Zavádění AI ve financích nezačíná nástroji.\nZačíná pochopením procesů, dat a způsobu práce finančního týmu.\n\nProto postupujeme ve třech krocích.",
+    "footer": "Navrhujeme řešení, která fungují nejen v prezentacích, ale i v každodenní práci finančních týmů.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Identifikace příležitostí",
+        "headline": "Najdeme místa, kde může AI skutečně pomoci",
+        "description": "Analyzujeme finanční procesy a identifikujeme konkrétní příležitosti pro využití AI.",
+        "items": ["reporting a analýza dat", "práce s dokumenty", "tax research", "rutinní administrativní úkoly"],
+        "conclusion": "Výsledkem je jasný přehled kde AI dává smysl a kde ne."
+      },
+      {
+        "number": "02",
+        "title": "Návrh řešení",
+        "headline": "Navrhneme, jak AI zapojit do práce týmu",
+        "description": "Na základě identifikovaných příležitostí navrhujeme konkrétní způsob využití AI.",
+        "items": ["návrh workflow", "výběr nástrojů", "pravidla práce s AI"],
+        "conclusion": "Cílem je přeložit AI do konkrétních kroků v každodenní práci."
+      },
+      {
+        "number": "03",
+        "title": "Implementace a adopce",
+        "headline": "Pomůžeme AI skutečně zavést do praxe",
+        "description": "Podporujeme implementaci a adopci AI ve finančních týmech.",
+        "items": ["pilotní projekty", "nastavení governance", "školení a podpora týmu"],
+        "conclusion": "Díky tomu se AI nestane jen experimentem, ale součástí běžných procesů."
+      }
+    ]
+  },
+  "painPoints": {
+    "title": "Typické situace při zavádění AI ve financích",
+    "footer": "Pokud Vám některá z těchto situací zní povědomě, nejste sami. Mnoho finančních týmů je dnes v podobné fázi.",
+    "items": [
+      {
+        "title": "AI ve firmě už běží — ale bez kontroly",
+        "description": "Zaměstnanci používají ChatGPT nebo Copilot na vlastních účtech a firma nemá jasná pravidla pro práci s citlivými daty."
+      },
+      {
+        "title": "Licence existují — adopce ne",
+        "description": "Firma investovala do AI nástrojů, ale finanční týmy je v praxi používají jen minimálně."
+      },
+      {
+        "title": "Reporting stále vzniká ručně",
+        "description": "Měsíční reporting vzniká kombinací exportů z ERP, Excelů a manuálních kontrol."
+      },
+      {
+        "title": "Kontrola dokumentů, práce s podklady nebo komentáře k reportům zabírají velkou část času.",
+        "description": "Testují se nástroje, ale procesy, data a odpovědnosti nejsou jasně definované."
+      }
+    ]
   },
   "services": {
     "title": "Naše služby",
-    "subtitle": "Od AI strategie po konkrétní implementaci ve vašem finančním týmu",
+    "subtitle": "Pomáháme firmám zavádět AI ve finančních procesech — od prvního posouzení až po reálné využití v každodenní práci týmu.",
+    "footer": "Ve většině spoluprací začínáme krátkým úvodním workshopem, který pomůže identifikovat první smysluplné příležitosti pro využití AI ve finančních procesech.",
     "items": [
       {
-        "title": "AI Readiness pro finance",
-        "description": "Zjistíme, kde je váš tým připravený a kde jsou největší příležitosti ke zlepšení.",
-        "detail": "Provedeme komplexní assessment vašeho finančního oddělení – od procesů a nástrojů po připravenost lidí. Výsledkem je přehledná mapa příležitostí s jasným doporučením, kde AI přinese největší hodnotu."
+        "title": "AI readiness pro finance",
+        "description": "Zjistíme, kde může AI ve vašich procesech přinést skutečnou hodnotu.",
+        "bullets": ["analýza finančních procesů", "identifikace AI use-cases", "posouzení dat, rizik a governance"],
+        "conclusion": "Výsledkem je přehled kde AI dává smysl a kde ne."
       },
       {
-        "title": "Identifikace AI use cases",
-        "description": "Konkrétní případy použití pro účtárnu, daně, controlling a reporting.",
-        "detail": "Nepracujeme s abstraktními možnostmi AI – hledáme konkrétní use cases pro vaše procesy. Výsledkem je prioritizovaný seznam s odhadem ROI a náročnosti implementace pro každý případ."
+        "title": "Návrh využití AI",
+        "description": "Navrhneme konkrétní způsob, jak AI zapojit do práce finančního týmu.",
+        "bullets": ["návrh workflow", "výběr nástrojů", "pravidla bezpečného využití AI"],
+        "conclusion": "Cílem je přeložit AI do konkrétní práce v procesech."
       },
       {
-        "title": "Návrh AI strategie",
-        "description": "Strukturovaný plán implementace AI přizpůsobený procesům vašeho finančního oddělení.",
-        "detail": "Vytvoříme roadmapu AI transformace šitou na míru vašemu finančnímu oddělení – s jasným pořadím kroků, KPIs, milníky a způsobem měření úspěchu."
-      },
-      {
-        "title": "AI adopce a změna práce",
-        "description": "Provázíme váš tým změnou – od skeptiků k aktivním uživatelům AI nástrojů.",
-        "detail": "Největší překážkou AI nejsou nástroje, ale lidé. Pomáháme s change managementem, vzděláváním týmu a budováním kultury, kde AI je pomocník, ne hrozba."
-      },
-      {
-        "title": "Výběr a implementace nástrojů",
-        "description": "Vybereme a nasadíme správné AI nástroje pro váš konkrétní kontext a potřeby.",
-        "detail": "Orientujeme se v nepřehledném trhu AI nástrojů. Pomůžeme vám vybrat, co skutečně pasuje – a neskončíme u výběru, ale provedeme vás i implementací a onboardingem."
+        "title": "Implementace a adopce AI",
+        "description": "Pomůžeme AI skutečně zavést do praxe.",
+        "bullets": ["pilotní projekty", "nastavení governance", "podpora adopce ve finančním týmu"],
+        "conclusion": "Díky tomu se AI nestane jen experimentem, ale součástí běžné práce."
       }
     ]
   },
   "stats": {
-    "big4": {
-      "value": "Big4",
-      "label": "zkušenosti v daních & auditu"
-    },
-    "ssc": {
-      "value": "SSC",
-      "label": "znalost procesů zevnitř"
-    },
-    "countries": {
-      "value": "14+",
-      "label": "zemí v oblasti VAT compliance"
-    }
+    "item1": { "value": "Big4", "label": "Zkušenost z poradenství" },
+    "item2": { "value": "Finance zevnitř", "label": "zkušenost z finančních týmů" },
+    "item3": { "value": "AI ve financích", "label": "praktické využití v procesech" }
   },
   "cta": {
-    "headline": "Máte AI licence. Ještě nemáte výsledky?",
-    "subheadline": "Domluvte si bezplatnou konzultaci a zjistěte, kde AI skutečně pomůže vašemu finančnímu týmu.",
-    "button": "Domluvit konzultaci"
+    "headline": "Zajímá vás, kde může AI pomoci ve vašem finančním týmu?",
+    "subheadline": "Rády se podíváme na vaše procesy a pomůžeme identifikovat první smysluplné příležitosti.",
+    "button": "Pojďme se na to podívat společně"
   },
   "footer": {
+    "tagline": "AI pro finance. V praxi.",
     "rights": "Všechna práva vyhrazena."
   },
   "meta": {
@@ -90,24 +132,24 @@
   },
   "aboutPage": {
     "badge": "O nás",
-    "title": "Od odborníků, kteří procesy znají zevnitř",
-    "subtitle": "Nejsme konzultanti, kteří AI přinesli z venku. Samy jsme prošly finančními odděleními a víme, jak to tam skutečně chodí.",
+    "title": "Známe finance zevnitř.",
+    "subtitle": "Pracovaly jsme v poradenských firmách i uvnitř finančních týmů.\nProto víme, jak změny ve financích skutečně fungují.",
     "founder1": {
       "name": "Lucie Fojtová",
-      "role": "AI transformace & interní finance",
-      "bio": "Pomáhám finančním týmům zavádět AI tak, aby skutečně změnila způsob jejich práce.\n\nZnám poradenství z Big4. Vím, co znamená špičková analýza a strategické doporučení. Zároveň jsem viděla, jak tato práce často končí ve chvíli, kdy narazí na interní realitu, na kterou už poradce nemá dosah.\n\nZnám i druhou stranu. Deset let jako interní manažer ve financích – tam, kde doporučení musí projít firemní politikou, legacy systémy, nesourodými daty a nejasnými zodpovědnostmi. Tam, kde změna závisí na lidech, kteří mají plné ruce práce s každodenním provozem.\n\nPrávě tam projekty uspějí – nebo selžou. A přesně tam dnes probíhá i AI transformace. Jen rychleji a viditelněji.\n\nProto se ve své práci soustředím na to, aby AI nezůstala jen strategií nebo pilotem, ale skutečně změnila způsob práce finančních týmů."
+      "subtitle": "Finance. Daně. AI.",
+      "bio": "Znám poradenství z Big4 a vím, co znamená špičková analýza a strategické doporučení.\n\nZároveň jsem deset let pracovala jako interní daňový manažer v nadnárodních firmách - tam, kde doporučení musí projít firemní politikou, legacy systémy, nesourodými daty a nejasnými zodpovědnostmi. Tam, kde změna závisí na lidech, kteří mají plné ruce práce s každodenním provozem.\n\nJsem také **certifikovaná daňová poradkyně**.\n\nDnes se zaměřuji na to, aby AI nezůstala jen strategií nebo pilotem, ale skutečně změnila způsob práce finančních týmů."
     },
     "founder2": {
       "name": "Renáta Kuchařová",
-      "role": "Audit & datová analytika",
-      "bio": "Pomáhám finančním týmům využívat data a AI k lepšímu řízení financí.\n\nMoje zkušenost kombinuje auditní praxi v Big4 s více než deseti lety práce ve finančních týmech velké technologické firmy. Vedla jsem GL tým a později se věnovala datové analýze a práci s finančními daty. Díky tomu dobře rozumím tomu, jak finance skutečně fungují – od účetních procesů až po reporting a práci s daty.\n\nDnes pomáhám organizacím využívat AI a analytiku tak, aby finance pracovaly efektivněji a měly lepší podklady pro rozhodování."
+      "subtitle": "Data. Finance. AI.",
+      "bio": "Začínala jsem v Big4 v auditu, kde jsem získala pevné základy v účetnictví a finančních procesech.\n\nNásledně jsem více než deset let pracovala ve finančních týmech technologické firmy. Vedla jsem GL tým a později se věnovala datové analýze a práci s finančními daty. Díky tomu dobře rozumím tomu, jak finance skutečně fungují – od účetních procesů až po reporting a práci s daty.\n\nPrávě tam vzniká největší prostor pro využití AI.\n\nDnes pomáhám organizacím využívat AI a analytiku tak, aby finance pracovaly efektivněji a měly lepší podklady pro rozhodování."
     },
     "whyUs": {
-      "title": "Proč Next Change AI?",
+      "title": "Proč Next Change AI",
       "items": [
         "Obě máme reálné zkušenosti z finančních oddělení – nejen teorii",
-        "Rozumíme, co je možné a co je marketing",
-        "Neprodáváme nástroje – prodáváme výsledky",
+        "Rozumíme rozdílu mezi reálnými možnostmi AI a marketingem",
+        "Neprodáváme nástroje. Pomáháme měnit způsob práce.",
         "Mluvíme jazykem financí, ne IT"
       ]
     }
@@ -115,14 +157,14 @@
   "contactPage": {
     "badge": "Kontakt",
     "title": "Pojďme si promluvit",
-    "subtitle": "Napište nám nebo nás najděte na LinkedIn. Rádi si s vámi promluvíme o tom, kde AI může pomoci vašemu finančnímu týmu.",
+    "subtitle": "Napište nám nebo se spojme na LinkedIn.\nRády se podíváme na to, kde může AI pomoci ve vašem finančním týmu.\n\nÚvodní konzultace je nezávazná a obvykle trvá kolem 30 minut.",
     "emailLabel": "Email",
     "linkedinLabel": "LinkedIn",
     "email": "info@nextchange.cz",
     "founder1LinkedIn": "https://www.linkedin.com/in/lucie-fojtova-6406a412/",
     "founder2LinkedIn": "https://www.linkedin.com/in/ren%C3%A1ta-kucha%C5%99ov%C3%A1-84067116/",
-    "founder1Name": "Lucie Fojtová – LinkedIn",
-    "founder2Name": "Renáta Kuchařová – LinkedIn"
+    "founder1Name": "Lucie Fojtová",
+    "founder2Name": "Renáta Kuchařová"
   },
   "notFound": {
     "title": "Stránka nenalezena",

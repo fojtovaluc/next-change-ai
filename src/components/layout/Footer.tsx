@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { getLocale } from "next-intl/server";
@@ -18,7 +19,7 @@ export default async function Footer() {
               <span className="text-teal font-bold text-xl ml-1">AI</span>
             </div>
             <p className="text-white/70 text-sm max-w-xs">
-              AI transformace finančních týmů. Od odborníků, kteří procesy znají zevnitř.
+              {t("tagline")}
             </p>
           </div>
 

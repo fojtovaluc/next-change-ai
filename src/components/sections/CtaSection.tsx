@@ -1,10 +1,9 @@
 import Link from "next/link";
-import { getTranslations } from "next-intl/server";
-import { getLocale } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function CtaSection() {
-  const locale = await getLocale();
   const t = await getTranslations("cta");
+  const locale = await getLocale();
 
   return (
     <section className="bg-dark py-24">
@@ -12,12 +11,12 @@ export default async function CtaSection() {
         <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4 max-w-2xl mx-auto">
           {t("headline")}
         </h2>
-        <p className="text-white/75 text-lg mb-10 max-w-xl mx-auto">
+        <p className="text-[#EAB308] text-lg max-w-xl mx-auto mb-8">
           {t("subheadline")}
         </p>
         <Link
           href={`/${locale}/kontakt`}
-          className="inline-flex items-center justify-center px-10 py-4 bg-gold text-dark text-base font-bold rounded-xl hover:bg-gold/90 transition-colors shadow-lg shadow-gold/20"
+          className="inline-block bg-[#EAB308] text-[#0F172A] font-semibold px-8 py-3 rounded-lg hover:bg-[#EAB308]/90 transition-colors"
         >
           {t("button")}
         </Link>
