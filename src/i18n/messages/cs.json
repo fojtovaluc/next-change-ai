@@ -19,23 +19,28 @@
     "items": [
       {
         "title": "AI Readiness pro finance",
-        "description": "Zjistíme, kde je váš tým připravený a kde jsou největší příležitosti ke zlepšení."
+        "description": "Zjistíme, kde je váš tým připravený a kde jsou největší příležitosti ke zlepšení.",
+        "detail": "Provedeme komplexní assessment vašeho finančního oddělení – od procesů a nástrojů po připravenost lidí. Výsledkem je přehledná mapa příležitostí s jasným doporučením, kde AI přinese největší hodnotu."
       },
       {
         "title": "Identifikace AI use cases",
-        "description": "Konkrétní případy použití pro účtárnu, daně, controlling a reporting."
+        "description": "Konkrétní případy použití pro účtárnu, daně, controlling a reporting.",
+        "detail": "Nepracujeme s abstraktními možnostmi AI – hledáme konkrétní use cases pro vaše procesy. Výsledkem je prioritizovaný seznam s odhadem ROI a náročnosti implementace pro každý případ."
       },
       {
         "title": "Návrh AI strategie",
-        "description": "Strukturovaný plán implementace AI přizpůsobený procesům vašeho finančního oddělení."
+        "description": "Strukturovaný plán implementace AI přizpůsobený procesům vašeho finančního oddělení.",
+        "detail": "Vytvoříme roadmapu AI transformace šitou na míru vašemu finančnímu oddělení – s jasným pořadím kroků, KPIs, milníky a způsobem měření úspěchu."
       },
       {
         "title": "AI adopce a změna práce",
-        "description": "Provázíme váš tým změnou – od skeptiků k aktivním uživatelům AI nástrojů."
+        "description": "Provázíme váš tým změnou – od skeptiků k aktivním uživatelům AI nástrojů.",
+        "detail": "Největší překážkou AI nejsou nástroje, ale lidé. Pomáháme s change managementem, vzděláváním týmu a budováním kultury, kde AI je pomocník, ne hrozba."
       },
       {
         "title": "Výběr a implementace nástrojů",
-        "description": "Vybereme a nasadíme správné AI nástroje pro váš konkrétní kontext a potřeby."
+        "description": "Vybereme a nasadíme správné AI nástroje pro váš konkrétní kontext a potřeby.",
+        "detail": "Orientujeme se v nepřehledném trhu AI nástrojů. Pomůžeme vám vybrat, co skutečně pasuje – a neskončíme u výběru, ale provedeme vás i implementací a onboardingem."
       }
     ]
   },
@@ -64,5 +69,52 @@
   "meta": {
     "title": "Next Change AI – AI transformace finančních týmů",
     "description": "Pomáháme CFO a vedoucím finančních oddělení zavést AI, která skutečně funguje. Od odborníků, kteří procesy znají zevnitř."
+  },
+  "servicesPage": {
+    "badge": "Služby",
+    "title": "Co pro vás uděláme",
+    "subtitle": "Každá firma je jiná. Proto vždy začínáme pochopením vašeho konkrétního kontextu.",
+    "ctaLabel": "Domluvit konzultaci"
+  },
+  "aboutPage": {
+    "badge": "O nás",
+    "title": "Od odborníků, kteří procesy znají zevnitř",
+    "subtitle": "Nejsme konzultanti, kteří AI přinesli z venku. Samy jsme prošly finančními odděleními a víme, jak to tam skutečně chodí.",
+    "founder1": {
+      "name": "Zakladatelka 1",
+      "role": "Daňová expertka & AI stratég",
+      "bio": "Placeholder – bio bude doplněno. Zkušenosti z Big4 v oblasti daní, mezinárodní VAT compliance (14+ zemí), SSC/GBS transformace."
+    },
+    "founder2": {
+      "name": "Zakladatelka 2",
+      "role": "Audit & procesní expertka",
+      "bio": "Placeholder – bio bude doplněno. Zkušenosti z Big4 v oblasti auditu, finanční controlling, implementace procesních změn ve velkých firmách."
+    },
+    "whyUs": {
+      "title": "Proč Next Change AI?",
+      "items": [
+        "Obě máme reálné zkušenosti z finančních oddělení – nejen teorii",
+        "Rozumíme, co je možné a co je marketing",
+        "Neprodáváme nástroje – prodáváme výsledky",
+        "Mluvíme jazykem financí, ne IT"
+      ]
+    }
+  },
+  "contactPage": {
+    "badge": "Kontakt",
+    "title": "Pojďme si promluvit",
+    "subtitle": "Napište nám nebo nás najděte na LinkedIn. Rádi si s vámi promluvíme o tom, kde AI může pomoci vašemu finančnímu týmu.",
+    "emailLabel": "Email",
+    "linkedinLabel": "LinkedIn",
+    "email": "info@nextchange.ai",
+    "founder1LinkedIn": "https://linkedin.com",
+    "founder2LinkedIn": "https://linkedin.com",
+    "founder1Name": "Zakladatelka 1 – LinkedIn",
+    "founder2Name": "Zakladatelka 2 – LinkedIn"
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "description": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
+    "button": "Zpět na hlavní stránku"
   }
 }

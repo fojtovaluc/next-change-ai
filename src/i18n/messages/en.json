@@ -19,23 +19,28 @@
     "items": [
       {
         "title": "AI Readiness for Finance",
-        "description": "We assess where your team is ready and where the biggest opportunities for improvement lie."
+        "description": "We assess where your team is ready and where the biggest opportunities for improvement lie.",
+        "detail": "We conduct a comprehensive assessment of your finance department – from processes and tools to people readiness. The result is a clear opportunity map with concrete recommendations for where AI will bring the most value."
       },
       {
         "title": "AI Use Case Identification",
-        "description": "Concrete use cases for accounting, tax, controlling and reporting."
+        "description": "Concrete use cases for accounting, tax, controlling and reporting.",
+        "detail": "We don't work with abstract AI possibilities – we find concrete use cases for your actual processes. The result is a prioritized list with ROI estimates and implementation complexity for each case."
       },
       {
         "title": "AI Strategy Design",
-        "description": "A structured AI implementation plan tailored to your finance department's processes."
+        "description": "A structured AI implementation plan tailored to your finance department's processes.",
+        "detail": "We create an AI transformation roadmap tailored to your finance department – with a clear sequence of steps, KPIs, milestones and a way to measure success."
       },
       {
         "title": "AI Adoption & Change Management",
-        "description": "We guide your team through the change – from skeptics to active AI users."
+        "description": "We guide your team through the change – from skeptics to active AI users.",
+        "detail": "The biggest barrier to AI isn't tools, it's people. We help with change management, team education and building a culture where AI is a helper, not a threat."
       },
       {
         "title": "Tool Selection & Implementation",
-        "description": "We select and deploy the right AI tools for your specific context and needs."
+        "description": "We select and deploy the right AI tools for your specific context and needs.",
+        "detail": "We navigate the crowded AI tools market. We help you choose what truly fits – and we don't stop at selection, but guide you through implementation and onboarding too."
       }
     ]
   },
@@ -64,5 +69,52 @@
   "meta": {
     "title": "Next Change AI – AI Transformation for Finance Teams",
     "description": "We help CFOs and finance leaders implement AI that actually works. By experts who know the processes from the inside."
+  },
+  "servicesPage": {
+    "badge": "Services",
+    "title": "What we do for you",
+    "subtitle": "Every company is different. That's why we always start by understanding your specific context.",
+    "ctaLabel": "Book a consultation"
+  },
+  "aboutPage": {
+    "badge": "About",
+    "title": "By experts who know the processes from the inside",
+    "subtitle": "We're not consultants who brought AI from the outside. We've worked inside finance departments ourselves and know how things really work.",
+    "founder1": {
+      "name": "Founder 1",
+      "role": "Tax Expert & AI Strategist",
+      "bio": "Placeholder – bio to be added. Big4 experience in tax, international VAT compliance (14+ countries), SSC/GBS transformation."
+    },
+    "founder2": {
+      "name": "Founder 2",
+      "role": "Audit & Process Expert",
+      "bio": "Placeholder – bio to be added. Big4 experience in audit, financial controlling, implementing process changes in large companies."
+    },
+    "whyUs": {
+      "title": "Why Next Change AI?",
+      "items": [
+        "We both have real experience from finance departments – not just theory",
+        "We understand what's possible and what's marketing",
+        "We don't sell tools – we sell results",
+        "We speak the language of finance, not IT"
+      ]
+    }
+  },
+  "contactPage": {
+    "badge": "Contact",
+    "title": "Let's talk",
+    "subtitle": "Write to us or find us on LinkedIn. We'd love to talk about where AI can help your finance team.",
+    "emailLabel": "Email",
+    "linkedinLabel": "LinkedIn",
+    "email": "info@nextchange.ai",
+    "founder1LinkedIn": "https://linkedin.com",
+    "founder2LinkedIn": "https://linkedin.com",
+    "founder1Name": "Founder 1 – LinkedIn",
+    "founder2Name": "Founder 2 – LinkedIn"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "button": "Back to homepage"
   }
 }

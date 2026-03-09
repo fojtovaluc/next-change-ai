@@ -1,7 +1,15 @@
+import Hero from "@/components/sections/Hero";
+import Services from "@/components/sections/Services";
+import Stats from "@/components/sections/Stats";
+import CtaSection from "@/components/sections/CtaSection";
+
 export default function HomePage() {
   return (
-    <main>
-      <p>Next Change AI – coming soon</p>
-    </main>
+    <>
+      <Hero />
+      <Services />
+      <Stats />
+      <CtaSection />
+    </>
   );
 }
