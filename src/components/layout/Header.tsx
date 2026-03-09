@@ -56,18 +56,18 @@ export default function Header() {
                 className={`px-2 py-1 rounded transition-colors ${
                   locale === "cs"
                     ? "text-gold font-semibold"
-                    : "text-white/50 hover:text-white/80"
+                    : "text-white/70 hover:text-white/90"
                 }`}
               >
                 CS
               </button>
-              <span className="text-white/30">|</span>
+              <span className="text-white/50" aria-hidden="true">|</span>
               <button
                 onClick={() => switchLocale("en")}
                 className={`px-2 py-1 rounded transition-colors ${
                   locale === "en"
                     ? "text-gold font-semibold"
-                    : "text-white/50 hover:text-white/80"
+                    : "text-white/70 hover:text-white/90"
                 }`}
               >
                 EN

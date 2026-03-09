@@ -17,27 +17,27 @@ export default async function Footer() {
               <span className="text-gold font-bold text-xl tracking-tight">Next Change</span>
               <span className="text-teal font-bold text-xl ml-1">AI</span>
             </div>
-            <p className="text-white/50 text-sm max-w-xs">
+            <p className="text-white/70 text-sm max-w-xs">
               AI transformace finančních týmů. Od odborníků, kteří procesy znají zevnitř.
             </p>
           </div>
 
           {/* Nav links */}
           <nav className="flex flex-col gap-3">
-            <Link href={`/${locale}/sluzby`} className="text-white/60 hover:text-gold text-sm transition-colors">
+            <Link href={`/${locale}/sluzby`} className="text-white/75 hover:text-gold text-sm transition-colors">
               {tNav("services")}
             </Link>
-            <Link href={`/${locale}/o-nas`} className="text-white/60 hover:text-gold text-sm transition-colors">
+            <Link href={`/${locale}/o-nas`} className="text-white/75 hover:text-gold text-sm transition-colors">
               {tNav("about")}
             </Link>
-            <Link href={`/${locale}/kontakt`} className="text-white/60 hover:text-gold text-sm transition-colors">
+            <Link href={`/${locale}/kontakt`} className="text-white/75 hover:text-gold text-sm transition-colors">
               {tNav("contact")}
             </Link>
           </nav>
         </div>
 
         <div className="mt-10 pt-6 border-t border-white/10 text-center">
-          <p className="text-white/30 text-xs">
+          <p className="text-white/50 text-xs">
             © {new Date().getFullYear()} Next Change AI. {t("rights")}
           </p>
         </div>
