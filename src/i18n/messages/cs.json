@@ -81,14 +81,14 @@
     "title": "Od odborníků, kteří procesy znají zevnitř",
     "subtitle": "Nejsme konzultanti, kteří AI přinesli z venku. Samy jsme prošly finančními odděleními a víme, jak to tam skutečně chodí.",
     "founder1": {
-      "name": "Zakladatelka 1",
-      "role": "Daňová expertka & AI stratég",
-      "bio": "Placeholder – bio bude doplněno. Zkušenosti z Big4 v oblasti daní, mezinárodní VAT compliance (14+ zemí), SSC/GBS transformace."
+      "name": "Lucie Fojtová",
+      "role": "AI transformace & interní finance",
+      "bio": "Pomáhám finančním týmům zavádět AI tak, aby skutečně změnila způsob jejich práce.\n\nZnám poradenství z Big4. Vím, co znamená špičková analýza a strategické doporučení. Zároveň jsem viděla, jak tato práce často končí ve chvíli, kdy narazí na interní realitu, na kterou už poradce nemá dosah.\n\nZnám i druhou stranu. Deset let jako interní manažer ve financích – tam, kde doporučení musí projít firemní politikou, legacy systémy, nesourodými daty a nejasnými zodpovědnostmi. Tam, kde změna závisí na lidech, kteří mají plné ruce práce s každodenním provozem.\n\nPrávě tam projekty uspějí – nebo selžou. A přesně tam dnes probíhá i AI transformace. Jen rychleji a viditelněji.\n\nProto se ve své práci soustředím na to, aby AI nezůstala jen strategií nebo pilotem, ale skutečně změnila způsob práce finančních týmů."
     },
     "founder2": {
-      "name": "Zakladatelka 2",
-      "role": "Audit & procesní expertka",
-      "bio": "Placeholder – bio bude doplněno. Zkušenosti z Big4 v oblasti auditu, finanční controlling, implementace procesních změn ve velkých firmách."
+      "name": "Renáta Kuchařová",
+      "role": "Audit & datová analytika",
+      "bio": "Pomáhám finančním týmům využívat data a AI k lepšímu řízení financí.\n\nMoje zkušenost kombinuje auditní praxi v Big4 s více než deseti lety práce ve finančních týmech velké technologické firmy. Vedla jsem GL tým a později se věnovala datové analýze a práci s finančními daty. Díky tomu dobře rozumím tomu, jak finance skutečně fungují – od účetních procesů až po reporting a práci s daty.\n\nDnes pomáhám organizacím využívat AI a analytiku tak, aby finance pracovaly efektivněji a měly lepší podklady pro rozhodování."
     },
     "whyUs": {
       "title": "Proč Next Change AI?",
@@ -106,11 +106,11 @@
     "subtitle": "Napište nám nebo nás najděte na LinkedIn. Rádi si s vámi promluvíme o tom, kde AI může pomoci vašemu finančnímu týmu.",
     "emailLabel": "Email",
     "linkedinLabel": "LinkedIn",
-    "email": "info@nextchange.ai",
-    "founder1LinkedIn": "https://linkedin.com",
-    "founder2LinkedIn": "https://linkedin.com",
-    "founder1Name": "Zakladatelka 1 – LinkedIn",
-    "founder2Name": "Zakladatelka 2 – LinkedIn"
+    "email": "info@nextchange.cz",
+    "founder1LinkedIn": "https://www.linkedin.com/in/lucie-fojtova-6406a412/",
+    "founder2LinkedIn": "https://www.linkedin.com/in/ren%C3%A1ta-kucha%C5%99ov%C3%A1-84067116/",
+    "founder1Name": "Lucie Fojtová – LinkedIn",
+    "founder2Name": "Renáta Kuchařová – LinkedIn"
   },
   "notFound": {
     "title": "Stránka nenalezena",

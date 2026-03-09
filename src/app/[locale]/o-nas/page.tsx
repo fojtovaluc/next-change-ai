@@ -43,7 +43,11 @@ export default async function AboutPage() {
               </div>
               <h2 className="text-xl font-bold text-slate mb-1">{t("founder1.name")}</h2>
               <p className="text-gold text-sm font-semibold mb-4">{t("founder1.role")}</p>
-              <p className="text-slate/60 leading-relaxed">{t("founder1.bio")}</p>
+              <div className="flex flex-col gap-3">
+                {t("founder1.bio").split("\n\n").map((para, i) => (
+                  <p key={i} className="text-slate/60 leading-relaxed text-sm">{para}</p>
+                ))}
+              </div>
             </div>
 
             {/* Founder 2 */}
@@ -53,7 +57,11 @@ export default async function AboutPage() {
               </div>
               <h2 className="text-xl font-bold text-slate mb-1">{t("founder2.name")}</h2>
               <p className="text-gold text-sm font-semibold mb-4">{t("founder2.role")}</p>
-              <p className="text-slate/60 leading-relaxed">{t("founder2.bio")}</p>
+              <div className="flex flex-col gap-3">
+                {t("founder2.bio").split("\n\n").map((para, i) => (
+                  <p key={i} className="text-slate/60 leading-relaxed text-sm">{para}</p>
+                ))}
+              </div>
             </div>
           </div>
 

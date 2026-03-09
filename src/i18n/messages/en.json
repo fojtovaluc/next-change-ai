@@ -81,14 +81,14 @@
     "title": "By experts who know the processes from the inside",
     "subtitle": "We're not consultants who brought AI from the outside. We've worked inside finance departments ourselves and know how things really work.",
     "founder1": {
-      "name": "Founder 1",
-      "role": "Tax Expert & AI Strategist",
-      "bio": "Placeholder – bio to be added. Big4 experience in tax, international VAT compliance (14+ countries), SSC/GBS transformation."
+      "name": "Lucie Fojtová",
+      "role": "AI Transformation & Internal Finance",
+      "bio": "I help finance teams implement AI in a way that genuinely changes how they work.\n\nI know consulting from Big4. I know what world-class analysis and strategic recommendations look like. I've also seen how that work often stops the moment it hits internal reality – the part where the consultant no longer has reach.\n\nI know the other side too. Ten years as an internal finance manager – where recommendations have to survive company politics, legacy systems, messy data and unclear ownership. Where change depends on people who already have their hands full with day-to-day operations.\n\nThat's where projects succeed – or fail. And that's exactly where AI transformation is happening today. Just faster and more visibly.\n\nThat's why I focus on making sure AI doesn't stay just a strategy or a pilot, but actually changes the way finance teams work."
     },
     "founder2": {
-      "name": "Founder 2",
-      "role": "Audit & Process Expert",
-      "bio": "Placeholder – bio to be added. Big4 experience in audit, financial controlling, implementing process changes in large companies."
+      "name": "Renáta Kuchařová",
+      "role": "Audit & Data Analytics",
+      "bio": "I help finance teams use data and AI to manage finances better.\n\nMy experience combines audit practice at Big4 with more than ten years working in finance teams at a large technology company. I led a GL team and later focused on data analysis and financial data. This gives me a solid understanding of how finance actually works – from accounting processes to reporting and data work.\n\nToday I help organisations leverage AI and analytics so that finance works more efficiently and has better foundations for decision-making."
     },
     "whyUs": {
       "title": "Why Next Change AI?",
@@ -106,11 +106,11 @@
     "subtitle": "Write to us or find us on LinkedIn. We'd love to talk about where AI can help your finance team.",
     "emailLabel": "Email",
     "linkedinLabel": "LinkedIn",
-    "email": "info@nextchange.ai",
-    "founder1LinkedIn": "https://linkedin.com",
-    "founder2LinkedIn": "https://linkedin.com",
-    "founder1Name": "Founder 1 – LinkedIn",
-    "founder2Name": "Founder 2 – LinkedIn"
+    "email": "info@nextchange.cz",
+    "founder1LinkedIn": "https://www.linkedin.com/in/lucie-fojtova-6406a412/",
+    "founder2LinkedIn": "https://www.linkedin.com/in/ren%C3%A1ta-kucha%C5%99ov%C3%A1-84067116/",
+    "founder1Name": "Lucie Fojtová – LinkedIn",
+    "founder2Name": "Renáta Kuchařová – LinkedIn"
   },
   "notFound": {
     "title": "Page not found",
