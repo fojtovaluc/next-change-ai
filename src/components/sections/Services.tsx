@@ -21,7 +21,7 @@ export default async function Services() {
           <h2 className="text-3xl sm:text-4xl font-bold text-slate mb-4">
             {t("title")}
           </h2>
-          <p className="text-slate/60 text-lg max-w-2xl mx-auto">
+          <p className="text-slate/80 text-lg max-w-2xl mx-auto">
             {t("subtitle")}
           </p>
         </div>
@@ -37,7 +37,7 @@ export default async function Services() {
               <h3 className="text-lg font-bold text-slate mb-3 group-hover:text-gold transition-colors">
                 {item.title}
               </h3>
-              <p className="text-slate/60 text-sm leading-relaxed">
+              <p className="text-slate/80 text-sm leading-relaxed">
                 {item.description}
               </p>
             </div>

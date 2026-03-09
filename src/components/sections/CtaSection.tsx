@@ -12,7 +12,7 @@ export default async function CtaSection() {
         <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4 max-w-2xl mx-auto">
           {t("headline")}
         </h2>
-        <p className="text-white/60 text-lg mb-10 max-w-xl mx-auto">
+        <p className="text-white/75 text-lg mb-10 max-w-xl mx-auto">
           {t("subheadline")}
         </p>
         <Link

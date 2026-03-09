@@ -34,7 +34,7 @@ export default async function ContactPage() {
         <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4">
           {t("title")}
         </h1>
-        <p className="text-white/60 text-xl max-w-2xl mb-16">
+        <p className="text-white/75 text-xl max-w-2xl mb-16">
           {t("subtitle")}
         </p>
 
@@ -46,7 +46,7 @@ export default async function ContactPage() {
             className="group bg-white/5 border border-white/10 rounded-2xl p-8 hover:border-gold/30 hover:bg-white/10 transition-all"
           >
             <div className="text-3xl mb-4">✉️</div>
-            <div className="text-white/50 text-sm uppercase tracking-wider mb-2">{t("emailLabel")}</div>
+            <div className="text-white/70 text-sm uppercase tracking-wider mb-2">{t("emailLabel")}</div>
             <div className="text-gold font-semibold group-hover:underline">{t("email")}</div>
           </a>
 
@@ -58,7 +58,7 @@ export default async function ContactPage() {
             className="group bg-white/5 border border-white/10 rounded-2xl p-8 hover:border-gold/30 hover:bg-white/10 transition-all"
           >
             <div className="text-3xl mb-4">💼</div>
-            <div className="text-white/50 text-sm uppercase tracking-wider mb-2">{t("linkedinLabel")}</div>
+            <div className="text-white/70 text-sm uppercase tracking-wider mb-2">{t("linkedinLabel")}</div>
             <div className="text-gold font-semibold group-hover:underline">{t("founder1Name")}</div>
           </a>
 
@@ -70,7 +70,7 @@ export default async function ContactPage() {
             className="group bg-white/5 border border-white/10 rounded-2xl p-8 hover:border-gold/30 hover:bg-white/10 transition-all"
           >
             <div className="text-3xl mb-4">💼</div>
-            <div className="text-white/50 text-sm uppercase tracking-wider mb-2">{t("linkedinLabel")}</div>
+            <div className="text-white/70 text-sm uppercase tracking-wider mb-2">{t("linkedinLabel")}</div>
             <div className="text-gold font-semibold group-hover:underline">{t("founder2Name")}</div>
           </a>
         </div>

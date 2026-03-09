@@ -50,7 +50,7 @@ export default async function ServicesPage() {
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4">
             {tp("title")}
           </h1>
-          <p className="text-white/60 text-xl max-w-2xl">
+          <p className="text-white/75 text-xl max-w-2xl">
             {tp("subtitle")}
           </p>
         </div>
@@ -69,7 +69,7 @@ export default async function ServicesPage() {
                   <div className="text-4xl md:mt-1">{item.icon}</div>
                   <div className="flex-1">
                     <h2 className="text-xl font-bold text-slate mb-2">{item.title}</h2>
-                    <p className="text-slate/60 font-medium mb-4">{item.description}</p>
+                    <p className="text-slate/80 font-medium mb-4">{item.description}</p>
                     <p className="text-slate/70 leading-relaxed">{item.detail}</p>
                   </div>
                 </div>
