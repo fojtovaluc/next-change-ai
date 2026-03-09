@@ -70,6 +70,18 @@
     "title": "Next Change AI – AI Transformation for Finance Teams",
     "description": "We help CFOs and finance leaders implement AI that actually works. By experts who know the processes from the inside."
   },
+  "metaServices": {
+    "title": "Services – Next Change AI",
+    "description": "AI Readiness, use case identification, strategy, adoption and tool selection. End-to-end AI transformation for finance teams."
+  },
+  "metaAbout": {
+    "title": "About – Next Change AI",
+    "description": "Lucie Fojtová and Renáta Kuchařová – founders of Next Change AI. Big4 experience + internal finance = AI transformation that actually works."
+  },
+  "metaContact": {
+    "title": "Contact – Next Change AI",
+    "description": "Book a free consultation. Find out where AI can truly help your finance team."
+  },
   "servicesPage": {
     "badge": "Services",
     "title": "What we do for you",

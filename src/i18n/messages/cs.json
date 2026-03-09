@@ -70,6 +70,18 @@
     "title": "Next Change AI – AI transformace finančních týmů",
     "description": "Pomáháme CFO a vedoucím finančních oddělení zavést AI, která skutečně funguje. Od odborníků, kteří procesy znají zevnitř."
   },
+  "metaServices": {
+    "title": "Služby – Next Change AI",
+    "description": "AI Readiness, identifikace use cases, strategie, adopce a výběr nástrojů. Komplexní AI transformace finančních týmů od základů po výsledky."
+  },
+  "metaAbout": {
+    "title": "O nás – Next Change AI",
+    "description": "Lucie Fojtová a Renáta Kuchařová – zakladatelky Next Change AI. Big4 zkušenosti + interní finance = AI transformace, která skutečně funguje."
+  },
+  "metaContact": {
+    "title": "Kontakt – Next Change AI",
+    "description": "Domluvte si bezplatnou konzultaci. Zjistěte, kde AI skutečně pomůže vašemu finančnímu týmu."
+  },
   "servicesPage": {
     "badge": "Služby",
     "title": "Co pro vás uděláme",
