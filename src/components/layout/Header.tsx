@@ -45,13 +45,23 @@ export default function Header() {
           {/* Nav */}
           <nav className="hidden md:flex items-center gap-8">
             {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="text-gold text-sm font-medium hover:text-gold/80 transition-colors"
-              >
-                {link.label}
-              </Link>
+              link.href.includes("kontakt") ? (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="text-gold text-sm font-medium border border-gold rounded-lg px-4 py-1.5 hover:bg-gold/10 transition-colors"
+                >
+                  {link.label}
+                </Link>
+              ) : (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="text-gold text-sm font-medium hover:text-gold/80 transition-colors"
+                >
+                  {link.label}
+                </Link>
+              )
             ))}
           </nav>
 
@@ -67,7 +77,7 @@ export default function Header() {
                     : "text-white/70 hover:text-white/90"
                 }`}
               >
-                CS
+                CZ
               </button>
               <span className="text-white/50" aria-hidden="true">|</span>
               <button
